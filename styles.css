@@ -1,0 +1,77 @@
+
+.myphoto{
+    width: 200px;
+    float: left;
+    margin-right: 25px;
+    
+}
+
+.letter{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.address{
+    text-align: right;
+    margin-right: 20px;
+    
+}
+
+.container{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+
+h1{
+    font-size: 25px;
+}
+
+.table {
+    display: inline-block;
+    margin-top: 20px;
+    
+}
+
+.form{
+    width: 300px;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 15px;
+
+}
+
+select{
+    margin-bottom: 20px;
+}
+
+input{
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+input[type="submit"]{
+    width: auto;
+    cursor: pointer;
+    font-size: 16px;
+    background-color:#555;
+}
+
+.pics{
+   display: inline-block;
+   margin: 0 auto;
+ 
+}
+
+.pics img{
+    width: 200px;
+    height: 200px;
+    object-fit: scale;
+    padding: 20px;
+}
