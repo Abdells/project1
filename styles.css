@@ -5,7 +5,9 @@
     
 }
 
-
+header{
+    margin-bottom: 20px;
+}
 
 
 .address{
@@ -21,15 +23,6 @@
     
 }
 
-h1{
-    font-size: 25px;
-}
-
-.table {
-    display: inline-block;
-    margin-top: 20px;
-    
-}
 
 .form{
     width: 300px;
